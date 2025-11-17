@@ -65,17 +65,4 @@ This project is a content-based movie recommender. Given a selected movie, it fi
 
 ---
 
-## Files in the repository (what to include)
-- `app.py` — Streamlit app (the file you shared earlier).
-- `Movie_recommender_system.ipynb` — notebook with preprocessing, vectorization, similarity, and helper functions.
-- `datasets/`:
-  - `movies.csv` — main movie metadata,
-  - `links.csv` or `credits.csv` — optional supporting files,
-  - `posters.csv` or `poster_paths.csv` — if poster paths are separate.
-- `requirements.txt` — dependencies list (example below).
-- `.gitignore` — e.g. large datasets, environment files.
-- `README.md` — (this file).
 
----
-
-## Recommended `requirements.txt` (example)
